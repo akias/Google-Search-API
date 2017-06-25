@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/commons-collections-3.2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/json-lib-2.2.2-jdk15.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/ezmorph-1.0.6-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/commons-beanutils-core-1.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/morph-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/saika/Documents/workspace/GoogleSearchAPI/webtest/mysql-connector-java-5.1.12-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
