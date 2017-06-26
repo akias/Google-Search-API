@@ -12,9 +12,8 @@ public class DatabaseConnection {
 			// password
 			String psw = "root123";
 			// quick-ticket-data is the name of database
-			String url = "jdbc:mysql://localhost:3306/website";
-			conn = DriverManager.getConnection(url, user, psw); // get the
-																// connection
+			String url = "jdbc:mysql://localhost:3306/quick_ticket_data";
+			conn = DriverManager.getConnection(url, user, psw); // get the connection
 		} catch (Exception e) {
 			System.out.println("faild");
 			e.printStackTrace();
